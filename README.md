@@ -1,7 +1,3 @@
-Absolutely! Here’s a **GitHub-friendly, visually appealing README.md** for your project with emojis and proper formatting:
-
----
-
 # 🛒 Retail Sales Analysis in Databricks
 
 ## 📖 Project Overview
